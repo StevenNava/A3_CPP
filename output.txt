@@ -1,0 +1,32 @@
+NT: 9 -> BACK
+Front of the queue contains 9
+Added 3 to the queue
+FRONT: 3 -> 9 -> BACK
+Front of the queue contains 3
+Added 5 to the queue
+FRONT: 3 -> 5 -> 9 -> BACK
+Front of the queue contains 3
+Added 1 to the queue
+FRONT: 1 -> 3 -> 5 -> 9 -> BACK
+Front of the queue contains 1
+Added 4 to the queue
+FRONT: 1 -> 3 -> 4 -> 5 -> 9 -> BACK
+Front of the queue contains 1
+Removed front of queue
+FRONT: 3 -> 4 -> 5 -> 9 -> BACK
+Front of the queue contains 3
+Removed front of queue
+FRONT: 4 -> 5 -> 9 -> BACK
+Front of the queue contains 4
+Removed front of queue
+FRONT: 5 -> 9 -> BACK
+Front of the queue contains 5
+Queue has data
+Removed front of queue
+FRONT: 9 -> BACK
+Removed front of queue
+FRONT: BACK
+Nothing to remove from the queue
+FRONT: BACK
+Queue is empty
+FRONT: BACK
